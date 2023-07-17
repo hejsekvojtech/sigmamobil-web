@@ -1,0 +1,56 @@
+[
+  {
+    "id": "0",
+    "name": "Obnovení operačního systému iOS/Android",
+    "time_consumption": "1 hodina",
+    "price": "400 Kč"
+  },
+  {
+    "id": "1",
+    "name": "Odblokování FRP",
+    "time_consumption": "1 hodina",
+    "price": "1100 Kč"
+  },
+  {
+    "id": "2",
+    "name": "Obnova dat ze zničeného telefonu",
+    "time_consumption": "2 - 3 hodiny",
+    "price": "1500+ Kč"
+  },
+  {
+    "id": "3",
+    "name": "Obnovení firmware + přenos dat",
+    "time_consumption": "30 minut - 1 hodina",
+    "price": "600 Kč"
+  },
+  {
+    "id": "4",
+    "name": "Přenos dat do nového zařízení",
+    "time_consumption": "10 minut - 1 hodina",
+    "price": "200 Kč"
+  },
+  {
+    "id": "5",
+    "name": "Instalace ochranného skla",
+    "time_consumption": "5 minut",
+    "price": "50 Kč"
+  },
+  {
+    "id": "6",
+    "name": "Výměna skla displeje (pouze OLED)",
+    "time_consumption": "1 - 2 hodiny",
+    "price": "600 Kč"
+  },
+  {
+    "id": "7",
+    "name": "Expresní oprava",
+    "time_consumption": "1 hodina",
+    "price": "+400 Kč"
+  },
+  {
+    "id": "8",
+    "name": "Víkendy",
+    "time_consumption": "1 - 2 hodiny",
+    "price": "+400 Kč"
+  }
+]
